@@ -1,8 +1,6 @@
 package Abbreviating;
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class Abbreviate {
     
     //atribuições
